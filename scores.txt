@@ -1,0 +1,5 @@
+250 yo
+200 Tu
+150 Player
+100 Nosotros
+50 Vosotros
